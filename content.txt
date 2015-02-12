@@ -1,0 +1,95 @@
+Here is file with the content of the website.
+
+Every underline element is the title of a page. Every page is a menu.
+
+Home
+----
+
+INTERNATIONAL SUMMER SCHOOL ON   "Network Algorithms and Graphs" 1rst edition
+
+Spectral graph theory, distributed computing, social networks, algorithms and Applications.
+
+Leukerbad - Switzerland, June 22 - 26, 2015
+
+Programe
+--------
+
+To be comming soon
+
+
+Important dates
+---------------
+
+Summer school: 22-26 June 2015
+
+
+Organisators
+------------
+
+Student commitee
+
+- Nathanaël Perraudin (EPFL – LTS2)
+- Johan Paratte (EPFL – LTS2)
+- Barbara Keller (ETHZ – DISCO)
+- Jochen Seidel (ETHZ – DISCO) 
+
+
+Labs
+
+- LTS2 http://lts2www.epfl.ch/
+- DISCO http://www.disco.ethz.ch/
+
+
+Partner
+-------
+
+EPFL http://epfl.ch/
+
+ETHZ http://www.ethz.ch/
+
+
+Speakers
+--------
+
+Prof. Pierre Vandergheynst
+
+Pierre Vandergheynst received the M.S. degree in physics and the Ph.D. degree in mathematical physics from the Université catholique de Louvain, Louvain-la-Neuve, Belgium, in 1995 and 1998, respectively.  From 1998 to 2001, he was a Postdoctoral  Researcher with the Signal Processing Laboratory,  Swiss Federal Institute of Technology (EPFL),  Lausanne, Switzerland. He was Assistant Professor at EPFL (2002-2007), where he is now an Associate Professor . His research focuses on harmonic analysis, sparse representations and mathematical image processing with applications to higher dimensional, complex data processing. He was co-Editor-in-Chief of Signal Processing (2002-2006) and Associate Editor of the IEEE Transactions on Signal Processing (2007-2011). He has been on the Technical Committee of various conferences and was Co-General Chairman of the EUSIPCO 2008 conference. Pierre Vandergheynst is the author or co-author of more than 60 journal papers, one monograph and several book chapters. He is a laureate of the 2007 Apple ARTS award and of the 2009-2010 De Boelpaepe prize of the Belgian Royal Academy of Sciences. Pierre holds numerous patents in the field of signal, image and video processing and is involved in several start-ups.
+
+
+Location and hotel
+------------------
+
+Leukerbad
+
+Location
+
+Our summer school takes place in the heart of the Alps in the beautiful place of <a href=“http://www.leukerbad.ch/en/index.php“> Leukerbad </a>. This spot is particualarly well know for his hot springs from which arrise the word "bad" in english "bath". After lessons, you'll have the time to share idea in hot bubling <a href="http://www.leukerbad.ch/thermalbaths/index.php">pool</a>. The view and the landscape are also impressive in Leukerbad. The <a href="http://www.gemmi.ch/highlights/home/"> Gemmi cable car</a> allows a quick access to the beautiful mountain nature overlooking leukerbad. A trip will be organised there during the week.
+
+Hotel Astoria
+
+The <a href="http://astoria-leukerbad.ch/en/04518e9aaf09d5216/index.html" > Hotel Astoria </a> it is located in a central and quiet area. You get in 3 minutes walking distance to the Thermal Spa’s Burgerbad, Alpentherme and the REHA “clinic for rheumatism treatments”. You get also in 5 minutes walking distance to the cable car Torrent and in 20 minutes to the cable car Gemmi. The hotel includes a Wireless internet available in public areas and free of charge.
+
+Links
+
+Bath:
+Leukerbad therme http://www.leukerbad-therme.ch/fr/index.php
+Walliser alpenterme	http://www.alpentherme.ch/
+Volksheilbad http://www.volksheilbad.ch/
+Nature:
+Gemmi cable car http://www.gemmi.ch/highlights/home/
+Sport:
+Via ferrata Gemmi http://gemmi.ch/sommer/klettersteig-gemmiwand/
+Via ferrata Daubenhorn http://gemmi.ch/sommer/klettersteig-daubenhorn/
+Sportarena http://www.sportarenaleukerbad.ch/fr/index.php
+
+
+
+
+
+Contact
+-------
+
+
+
+Registration
+------------
