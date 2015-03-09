@@ -13,6 +13,10 @@ body {
  padding-top:50px;
 }
 
+h2 {
+  padding-top : 30px;
+}
+
 #masthead {
  min-height:250px;
 }
@@ -59,4 +63,22 @@ body {
 #sidebar li.active {
   border:0 #eee solid;
   border-right-width:5px;
+}
+
+.media-body {
+  text-align: justify;
+
+}
+
+footer {
+  margin-top : 50px;
+  text-align: center;
+  padding: 30px;
+  text-align : center;
+  background-color : #eee;
+}
+
+footer img {
+  margin-top : 15px;
+
 }
