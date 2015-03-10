@@ -19,12 +19,14 @@ h2 {
 
 #masthead {
  min-height:250px;
+ background-color: #eee;
 }
 
 #masthead h1 {
  font-size: 30px;
  line-height: 1;
  padding-top:20px;
+
 }
 
 #masthead .well {
@@ -63,6 +65,11 @@ h2 {
 #sidebar li.active {
   border:0 #eee solid;
   border-right-width:5px;
+}
+ .background {
+  background-image: url("../media/logo_trans.png");
+  background-size : 375px auto;
+  background-repeat: no-repeat;
 }
 
 .media-body {
