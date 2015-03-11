@@ -27,6 +27,8 @@ h2 {
  border-bottom : 1px solid #ddd;
 }
 
+
+
 #masthead h1 {
  font-size: 30px;
  line-height: 1;
@@ -52,7 +54,16 @@ h2 {
  position: static;
 }
 
+
 @media (min-width: 979px) {
+  .background {
+    background-image: url("../media/logo_trans.png");
+  }
+
+  #band {
+  margin-left: 300px;
+  }
+
   #sidebar.affix-top {
     position: static;
   	margin-top:30px;
@@ -71,7 +82,6 @@ h2 {
   border-right-width:5px;
 }
  .background {
-  background-image: url("../media/logo_trans.png");
   background-size : 375px auto;
   background-repeat: no-repeat;
 }

@@ -11,8 +11,8 @@ Spectral graph theory, distributed computing, social networks, algorithms and Ap
 
 Leukerbad - Switzerland, June 22 - 26, 2015
 
-Programe
---------
+Program
+-------
 
 To be comming soon
 
@@ -55,6 +55,8 @@ Prof. Pierre Vandergheynst
 
 Pierre Vandergheynst received the M.S. degree in physics and the Ph.D. degree in mathematical physics from the Université catholique de Louvain, Louvain-la-Neuve, Belgium, in 1995 and 1998, respectively.  From 1998 to 2001, he was a Postdoctoral  Researcher with the Signal Processing Laboratory,  Swiss Federal Institute of Technology (EPFL),  Lausanne, Switzerland. He was Assistant Professor at EPFL (2002-2007), where he is now an Associate Professor . His research focuses on harmonic analysis, sparse representations and mathematical image processing with applications to higher dimensional, complex data processing. He was co-Editor-in-Chief of Signal Processing (2002-2006) and Associate Editor of the IEEE Transactions on Signal Processing (2007-2011). He has been on the Technical Committee of various conferences and was Co-General Chairman of the EUSIPCO 2008 conference. Pierre Vandergheynst is the author or co-author of more than 60 journal papers, one monograph and several book chapters. He is a laureate of the 2007 Apple ARTS award and of the 2009-2010 De Boelpaepe prize of the Belgian Royal Academy of Sciences. Pierre holds numerous patents in the field of signal, image and video processing and is involved in several start-ups.
 
+Pierre Fraigniaud
+
 
 Location and hotel
 ------------------
@@ -81,8 +83,6 @@ Sport:
 Via ferrata Gemmi http://gemmi.ch/sommer/klettersteig-gemmiwand/
 Via ferrata Daubenhorn http://gemmi.ch/sommer/klettersteig-daubenhorn/
 Sportarena http://www.sportarenaleukerbad.ch/fr/index.php
-
-
 
 
 
