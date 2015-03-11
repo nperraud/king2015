@@ -17,16 +17,20 @@ h2 {
   padding-top : 30px;
 }
 
+.navbar-default {
+  border-color: #ddd;
+}
+
 #masthead {
  min-height:250px;
  background-color: #eee;
+ border-bottom : 1px solid #ddd;
 }
 
 #masthead h1 {
  font-size: 30px;
  line-height: 1;
  padding-top:20px;
-
 }
 
 #masthead .well {
